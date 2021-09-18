@@ -1,0 +1,21 @@
+{
+    "name": "axe-dark",
+    "displayName": "Axe",
+    "description": "Highly optimized theme to make your code more readable and beautiful to your eyes without any distraction. the theme aim for those who program in multiple languages and suffering by the themes that created for specific languages and ugly in the others. I suffer the same so I'll create medicine to be cured. long live us",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Axe Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Axe Dark-color-theme.json"
+            }
+        ]
+    }
+}
