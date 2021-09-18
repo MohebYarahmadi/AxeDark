@@ -9,10 +9,10 @@ Font: JetBrains Mono
 File Icon: field lights monochromatic
 Product Icon: carbon icon
 
-![](screens\Screenshot 2021-09-18 133125.png)
+![](/screens/Screenshot%202021-09-18%20133125.png)
 
-![](screens\csharp.png)
+![](/screens/csharp.png)
 
-![](screens\HTML.png)
+![](/screens/HTML.png)
 
 **Enjoy!**
