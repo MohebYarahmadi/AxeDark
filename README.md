@@ -1,4 +1,4 @@
-# ProCodersDark
+# AxeDark
 ## A dark theme for vscode
 
 I love to program and I program in different languages, I always suffering with color themes that works on a specific language but not in another so I decided to make my own theme which is readable and beautiful. I love Ayu but not it's syntax color and I love visual studio 2019 syntax color, so I mixed theme up and create my own.
